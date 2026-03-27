@@ -1,0 +1,27 @@
+{
+  "name": "mmm-gesturecontrol",
+  "version": "1.0.0",
+  "description": "MagicMirror module for APDS-9960 gesture control via MQTT with Home Assistant integration",
+  "main": "MMM-GestureControl.js",
+  "author": "JiroMusik",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jiromusik/MMM-GestureControl.git"
+  },
+  "keywords": [
+    "MagicMirror",
+    "gesture",
+    "APDS-9960",
+    "MQTT",
+    "home-assistant"
+  ],
+  "homepage": "https://github.com/jiromusik/MMM-GestureControl#readme",
+  "bugs": {
+    "url": "https://github.com/jiromusik/MMM-GestureControl/issues"
+  },
+  "dependencies": {
+    "mqtt": "^5.0.0",
+    "ws": "^8.0.0"
+  }
+}
